@@ -27,3 +27,9 @@ https://github.com/deviceofmind/arduino-processing
 
 And try the Makey - nee Arduino - with Processing.
 
+A more detailed - and cumbersome - explanation of all this can be found on the Sparkfun site:
+
+https://learn.sparkfun.com/tutorials/makey-makey-advanced-guide
+
+
+
